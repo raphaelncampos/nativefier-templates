@@ -36,6 +36,8 @@ You can inject JavaScript and CSS files with the `--inject "/path/to/file.js"`.
 
 ## Internal URLs on the app
 
+In some cases, you want to include another domains in the scope of you app. You can use `--internal-urls "(accounts\.google\.com.*|*\.domain\.com)"` to add google OAuth login, for example.
+
 ## References
 
 - [Linux Fu: Turn a web app into a full program](https://hackaday.com/2018/12/05/linux-fu-turn-a-web-app-into-a-full-program/)
