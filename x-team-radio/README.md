@@ -1,6 +1,6 @@
 # X-Team Radio template
 
-A template for [X-team Radio](radio.x-team.com).
+A template for [X-team Radio](https://radio.x-team.com).
 
 ## Installation
 
