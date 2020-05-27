@@ -34,6 +34,7 @@ touch ~/.local/share/applications/figma.desktop
 Comment=Figma created with Nativefier
 Terminal=false
 Name=Figma
+#replace $USER with your username
 Exec=/home/$USER/install/Figma-linux-x64/Figma
 Type=Application
 Icon=/home/$USER/install/Figma-linux-x64/resources/app/icon.png
