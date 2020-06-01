@@ -1,6 +1,6 @@
 # Figma template
 
-A template for [Figma](www.figma.com).
+A template for [Figma](https://www.figma.com).
 
 ## Installation
 
